@@ -28,7 +28,8 @@ cd AwesomeProject
 
 - Option 1 (recommended): Install the `Expo Go` app from Google Play Store or Apple Store.
 - Option 2: Install Android Studio for Android Virtual Device (AVD) emulation.
-  \*Note: This option is more complex and may require additional setup.
+
+\*Note: This option is more complex and may require additional setup.
 
 2. To run the basic code, use the following command:
 
