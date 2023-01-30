@@ -2,7 +2,7 @@
 
 ## Project setup
 
-1. Before starting the project, set it up following the instructions in the `Setup` section.
+1. Before starting the project, set it up following the instructions in the [setup](./SETUP.md) section.
 
 ## Introduction
 
@@ -23,8 +23,13 @@ This project is an introduction to Expo, where you will implement a basic screen
 
 ## Third step
 
-(To be added)
+1. Add a `Button` to submit the content of the `TextInput`.
+2. Store the content of the `TextInput`.
+3. Implement the functionality of the button so that it clears the text input after the content has been submitted.
 
 ## Fourth step
 
-(To be added)
+Now that you have stored the content of the `TextInput`,
+
+1. Display the submitted content in a separate screen.
+2. Add the ability to edit and delete the submitted content.
