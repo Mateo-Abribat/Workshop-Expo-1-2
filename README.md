@@ -31,5 +31,5 @@ This project is an introduction to Expo, where you will implement a basic screen
 
 Now that you have stored the content of the `TextInput`,
 
-1. Display the submitted content in a separate screen.
+1. Display the submitted content in a separate screen using the [`React Navigation`](https://reactnavigation.org/docs/getting-started/) library.
 2. Add the ability to edit and delete the submitted content.
