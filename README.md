@@ -6,7 +6,7 @@ Before starting the project, set it up following the instructions in the [setup]
 
 ## Introduction
 
-This project is an introduction to Expo, where you will implement a basic screen with different components.
+Expo is an open-source platform for developing and building native mobile applications for iOS and Android using JavaScript and React Native. It provides a unified development environment and a set of tools to streamline the mobile app development process, such as a simulator, debugging tools, and push notification services. With Expo, developers can focus on building the features and functionality of their app, rather than managing the underlying native infrastructure. Additionally, Expo has a large and growing community of developers, making it easy to find support and resources for building your app. This project is an introduction to Expo, where you will implement a basic screen with different components.
 
 ## First step
 
