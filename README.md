@@ -2,7 +2,7 @@
 
 ## Project setup
 
-1. Before starting the project, set it up following the instructions in the [setup](./SETUP.md) section.
+Before starting the project, set it up following the instructions in the [setup](./SETUP.md) section.
 
 ## Introduction
 
